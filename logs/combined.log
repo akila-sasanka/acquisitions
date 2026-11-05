@@ -66,3 +66,5 @@
 {"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
 {"level":"info","service":"acquisitions-api"}
 {"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.53.0"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.53.0"}
+{"level":"info","service":"acquisitions-api"}
